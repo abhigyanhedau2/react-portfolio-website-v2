@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/react-portfolio-website-v2/static/css/main.494aaead.css",
+    "main.js": "/react-portfolio-website-v2/static/js/main.5b1ee73a.js",
+    "static/media/food-order-app-img.png": "/react-portfolio-website-v2/static/media/food-order-app-img.bae0073df1dc2f2b919b.png",
+    "static/media/photo.png": "/react-portfolio-website-v2/static/media/photo.1eda152790a4f1486b65.png",
+    "static/media/hotel-website-img.png": "/react-portfolio-website-v2/static/media/hotel-website-img.811a3c32cf4de7555ac2.png",
+    "static/media/todo-website-img.png": "/react-portfolio-website-v2/static/media/todo-website-img.be13f77038559acd089e.png",
+    "static/media/resume.pdf": "/react-portfolio-website-v2/static/media/resume.1cebb069d3d299175906.pdf",
+    "index.html": "/react-portfolio-website-v2/index.html",
+    "main.494aaead.css.map": "/react-portfolio-website-v2/static/css/main.494aaead.css.map",
+    "main.5b1ee73a.js.map": "/react-portfolio-website-v2/static/js/main.5b1ee73a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.494aaead.css",
+    "static/js/main.5b1ee73a.js"
+  ]
+}
