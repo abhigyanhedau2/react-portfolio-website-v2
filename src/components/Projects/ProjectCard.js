@@ -1,11 +1,12 @@
 import React from 'react';
+import ImageSlider from './ImageSlider';
 import './ProjectCard.css';
 
 const ProjectCard = (props) => {
   return (
     <div className='project-card-wrapper'>
       <div className="card-img-wrapper">
-        <img src={props.imgurl} alt="..." />
+        <ImageSlider img1={props.img1} img2={props.img2} img3={props.img3} />
       </div>
       <div className="card-desc">
         <h1>{props.name}</h1>

@@ -6,7 +6,7 @@ import { projects } from '../../utility/projects-data';
 const Projects = () => {
 
     const projectItems = projects.map(item => {
-        return <ProjectCard key={item.id} name={item.name} desc={item.desc} imgurl={item.imgurl} projectLink={item.projectLink} />
+        return <ProjectCard key={item.id} name={item.name} desc={item.desc} img1={item.imgurl1} img2={item.imgurl2} img3={item.imgurl3} projectLink={item.projectLink} />
     })
 
     return (

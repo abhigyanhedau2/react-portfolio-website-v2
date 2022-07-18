@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import Navbar from './components/Navbar/Navbar';
 import Title from './components/Title/Title';
 import './App.css';
@@ -9,6 +9,12 @@ import Contact from './components/Contact/Contact';
 import Footer from './components/Footer/Footer';
 
 const App = () => {
+
+	// Scroll back to top at component did mount
+	useEffect(() => {
+		window.scrollTo(0, 0);
+	}, []);
+
 	return (
 		<div>
 			<div className="nav-and-title">

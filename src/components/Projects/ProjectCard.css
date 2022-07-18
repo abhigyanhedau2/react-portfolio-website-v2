@@ -6,12 +6,19 @@
   box-sizing: border-box;
   position: relative;
   margin: 0 2vw 5vh;
+  object-fit: cover;
   box-shadow: 0 0 10px 5px rgba(128, 128, 128, 0.3);
+  transition: all 0.25s;
+}
+
+.project-card-wrapper:hover {
+  transform: translate(-1%, -1%);
 }
 
 .card-img-wrapper {
   width: 20vw;
   height: 12vw;
+  object-fit: cover;
 }
 
 .card-img-wrapper img {
@@ -78,7 +85,7 @@
   }
 
   .card-img-wrapper {
-    width: 30vw;
+    width: 60vw;
     height: 30vw;
   }
 
@@ -95,7 +102,7 @@
   }
 
   .card-img-wrapper {
-    width: 30vw;
+    width: 90vw;
     height: 45vw;
   }
 
