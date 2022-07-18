@@ -10,6 +10,7 @@ const ProjectCard = (props) => {
       </div>
       <div className="card-desc">
         <h1>{props.name}</h1>
+        <h3>{props.subheading}</h3>
         <p>{props.desc}</p>
         <a href={props.projectLink} without rel="noreferrer" target="_blank"><button>View Project</button></a>
       </div>

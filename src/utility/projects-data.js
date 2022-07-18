@@ -10,8 +10,9 @@ import pro3img1 from '../assets/todo-website-img1.png'
 export const projects = [
     {
         id: 'p1',
-        name: 'Hotel Website',
-        desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. In quae maxime impedit quasi. Iste hic excepturi, aliquid reiciendis pariatur aliquam libero quia cupiditate error dolor quae totam obcaecati rerum delectus sed nulla veritatis suscipit fugiat, placeat aperiam porro cumque beatae. Neque unde illo possimus rem aperiam. Excepturi nam asperiores libero, doloribus sint obcaecati ratione, eveniet amet maxime, ullam laboriosam impedit.',
+        name: 'The Royal Palace',
+        subheading: 'A Hotel Website',
+        desc: "The Royal Palace is a hotel website which allows the user to get to know about the hotel, view the different types of rooms the hotel has, get a peek at the restaurant in the hotel and it's menu and also, know about different games and activities available at the hotel. The website also allows the user to book a room, he/she likes and allows to user to contact the hotel and view customer reviews. We also have a staff login using which we can view the queries regarding the hotel sent by customers and also booking details of arriving customers.",
         imgurl1: pro1img1,
         imgurl2: pro1img2,
         imgurl3: pro1img3,
@@ -19,8 +20,9 @@ export const projects = [
     },
     {
         id: 'p2',
-        name: 'Food Delivery App',
-        desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. In quae maxime impedit quasi. Iste hic excepturi, aliquid reiciendis pariatur aliquam libero quia cupiditate error dolor quae totam obcaecati rerum delectus sed nulla veritatis suscipit fugiat, placeat aperiam porro cumque beatae. Neque unde illo possimus rem aperiam. Excepturi nam asperiores libero, doloribus sint obcaecati ratione, eveniet amet maxime, ullam laboriosam impedit.',
+        name: 'Chef on the Web',
+        subheading: 'A Food Order Website',
+        desc: "Chef on the Web is a food order website which allows the user to choose their favorite meal from the broad selection of available meals on the website. Each meal has details about it, such as it's description, rating, price, etc. The site also has a cart feature. The users can add their favorite dishes into the carts and then view the cart.",
         imgurl1: pro2img1,
         imgurl2: pro2img2,
         imgurl3: pro2img3,
@@ -29,7 +31,8 @@ export const projects = [
     {
         id: 'p3',
         name: 'To Do list',
-        desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. In quae maxime impedit quasi. Iste hic excepturi, aliquid reiciendis pariatur aliquam libero quia cupiditate error dolor quae totam obcaecati rerum delectus sed nulla veritatis suscipit fugiat, placeat aperiam porro cumque beatae. Neque unde illo possimus rem aperiam. Excepturi nam asperiores libero, doloribus sint obcaecati ratione, eveniet amet maxime, ullam laboriosam impedit.',
+        subheading: 'Just a simple todo list',
+        desc: "Just a simple todo list which is very helpful to keep the track of everyday tasks.",
         imgurl1: pro3img1,
         imgurl2: pro3img1,
         imgurl3: pro3img1,

@@ -30,8 +30,14 @@
   padding: 1rem 1.5rem;
 }
 
+.card-desc h3 {
+  margin-top: 20px;
+}
+
 .card-desc p {
   margin: 1.5rem 0 5.5rem 0;
+  text-align: justify;
+  line-height: 1.25rem;
 }
 
 .card-desc button {
