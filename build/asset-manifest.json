@@ -1,18 +1,22 @@
 {
   "files": {
-    "main.css": "/react-portfolio-website-v2/static/css/main.494aaead.css",
-    "main.js": "/react-portfolio-website-v2/static/js/main.5b1ee73a.js",
-    "static/media/food-order-app-img.png": "/react-portfolio-website-v2/static/media/food-order-app-img.bae0073df1dc2f2b919b.png",
+    "main.css": "/react-portfolio-website-v2/static/css/main.ef1e9bb5.css",
+    "main.js": "/react-portfolio-website-v2/static/js/main.2ce075c7.js",
+    "static/media/food-order-app-img1.png": "/react-portfolio-website-v2/static/media/food-order-app-img1.6d1ed1f5659bb8b24c80.png",
+    "static/media/food-order-app-img2.png": "/react-portfolio-website-v2/static/media/food-order-app-img2.fb3819cd814c6b0f5052.png",
+    "static/media/hotel-website-img3.png": "/react-portfolio-website-v2/static/media/hotel-website-img3.7e8db7523d8c727e0884.png",
+    "static/media/food-order-app-img3.png": "/react-portfolio-website-v2/static/media/food-order-app-img3.a6b40810d5c6868e9c8a.png",
+    "static/media/hotel-website-img2.png": "/react-portfolio-website-v2/static/media/hotel-website-img2.d0d72b6eb9ebca6697a0.png",
     "static/media/photo.png": "/react-portfolio-website-v2/static/media/photo.1eda152790a4f1486b65.png",
-    "static/media/hotel-website-img.png": "/react-portfolio-website-v2/static/media/hotel-website-img.811a3c32cf4de7555ac2.png",
-    "static/media/todo-website-img.png": "/react-portfolio-website-v2/static/media/todo-website-img.be13f77038559acd089e.png",
+    "static/media/hotel-website-img1.png": "/react-portfolio-website-v2/static/media/hotel-website-img1.811a3c32cf4de7555ac2.png",
+    "static/media/todo-website-img1.png": "/react-portfolio-website-v2/static/media/todo-website-img1.be13f77038559acd089e.png",
     "static/media/resume.pdf": "/react-portfolio-website-v2/static/media/resume.1cebb069d3d299175906.pdf",
     "index.html": "/react-portfolio-website-v2/index.html",
-    "main.494aaead.css.map": "/react-portfolio-website-v2/static/css/main.494aaead.css.map",
-    "main.5b1ee73a.js.map": "/react-portfolio-website-v2/static/js/main.5b1ee73a.js.map"
+    "main.ef1e9bb5.css.map": "/react-portfolio-website-v2/static/css/main.ef1e9bb5.css.map",
+    "main.2ce075c7.js.map": "/react-portfolio-website-v2/static/js/main.2ce075c7.js.map"
   },
   "entrypoints": [
-    "static/css/main.494aaead.css",
-    "static/js/main.5b1ee73a.js"
+    "static/css/main.ef1e9bb5.css",
+    "static/js/main.2ce075c7.js"
   ]
 }
